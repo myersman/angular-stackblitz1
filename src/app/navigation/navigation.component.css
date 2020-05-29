@@ -1,0 +1,11 @@
+
+.navigation{
+  background-color: burlywood;
+}
+.navlink{
+  display: inline-block;
+  padding: 10px;
+}
+.navlink:hover{
+  background-color:blanchedalmond;
+}
